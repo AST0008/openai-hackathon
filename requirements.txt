@@ -1,0 +1,7 @@
+cors
+flask
+openai
+openai[vision]
+flask-cors
+python-dotenv
+requests
