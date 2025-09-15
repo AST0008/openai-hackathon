@@ -41,8 +41,8 @@ Follow these instructions to get the backend server running on your local machin
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/govform-copilot.git](https://github.com/your-username/govform-copilot.git)
-    cd govform-copilot
+    git clone [https://github.com/your-username/formgenie.git](https://github.com/your-username/formgenie.git)
+    cd formgenie
     ```
 
 2.  **Create a virtual environment:**
